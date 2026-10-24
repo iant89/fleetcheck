@@ -1,0 +1,1 @@
+{"name":"Fleetcheck Tire Inspections","short_name":"Fleetcheck","description":"Offline-ready fleet tire inspections for service technicians.","start_url":"./","scope":"./","display":"standalone","orientation":"any","background_color":"#f6f7f5","theme_color":"#17271f","icons":[{"src":"./fleetcheck.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
